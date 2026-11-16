@@ -1,6 +1,6 @@
 # Patricia Cobis
 
-Chef portfolio for **Patricia Cobis** — private chef in Barcelona, Dubai and Tanzania (cocktail catering, finger food, private dinners and gastronomic projects); contemporary Mediterranean cuisine; Michelin kitchens at Quirat ★ and Cocina Hermanos Torres ★★ & Green Star.
+Chef portfolio for **Patricia Cobis** — private chef in Barcelona, Dubai and Tanzania (cocktail catering, finger food, private dinners and gastronomic projects); contemporary Mediterranean cuisine; Michelin kitchens at Quirat ★, Hofmann ★ and Cocina Hermanos Torres ★★★.
 
 **Live:** [patriciacobis.com](https://patriciacobis.com)
 
